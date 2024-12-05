@@ -1,8 +1,10 @@
-# React + Vite
+## A modern gaming website built with React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<video width="740" height="100%" autoplay loop muted>
+  <source src="./media/showcase.mp4" type="video/mp4">
+</video>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
++ In this project I used React as the front-end framework, TailwindCSS to style it and GSAP for animation.<br />
+
