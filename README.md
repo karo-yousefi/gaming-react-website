@@ -7,4 +7,4 @@
 
 + A preview of the project (click on it):<br />
 
-[![Thumbnail](./thumbnail.jpg)](https://www.youtube.com/watch?v=KjYOx5SYHmk)
+[![Thumbnail](./thumbnail.jpg)](https://www.youtube.com/watch?v=uYJUbDspCwM)
